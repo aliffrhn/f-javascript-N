@@ -5,3 +5,6 @@ function jalanSatu(){
 const jalanDua = function () {
     console.log("Jalan Dua");
 }
+
+jalanSatu()
+jalanDua()
