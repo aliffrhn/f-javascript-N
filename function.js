@@ -1,0 +1,7 @@
+function jalanSatu(){
+    console.log("Jalan Satu");
+}
+
+const jalanDua = function () {
+    console.log("Jalan Dua");
+}
