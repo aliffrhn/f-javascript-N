@@ -8,3 +8,9 @@ const jalanDua = function () {
 
 jalanSatu()
 jalanDua()
+
+const jalanTiga = ()=>{
+    console.log("Jalan Tiga");
+}
+
+jalanTiga()
